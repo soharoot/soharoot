@@ -31,7 +31,7 @@
 ---
 
 ## 💻 Profiles & Contact
-🌐 TryHackMe: (Add link after creating profile)  
+🌐 TryHackMe: https://tryhackme.com/p/sohaibcyber  
 📩 Email: **hameksohaibdjabir@gmail.com**
 
 ---
