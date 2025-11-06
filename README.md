@@ -18,6 +18,7 @@
 ## 🧾 Certifications
 - Cisco — Introduction to Cybersecurity
 - Cisco — Networking Basics
+- IBM - Cybersecurity Fundamentals
 
 📂 Certificates Repo: 👉 https://github.com/hameksohaibdjabir/Certificates
 
