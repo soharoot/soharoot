@@ -34,8 +34,10 @@
 
 ## 💻 Profiles & Contact
 🌐 TryHackMe: https://tryhackme.com/p/soharoot  
+📩 Email: **hameksohaibdjabir@gmail.com**  
+  
 📩 Email: **hameksohaibdjabir@gmail.com**
-🔗 Linkdin: https://www.linkedin.com/in/soharoot/
+
 
 ---
 
